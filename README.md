@@ -2,7 +2,7 @@ This project was bootstrapped with Create React App.
 
 ![Project Preview](./src/find-images.png)
 
-[Hosted Link](https://main--wondrous-cupcake-236224.netlify.app/)
+### [Hosted Link](https://main--wondrous-cupcake-236224.netlify.app/)
 
 ## Available Scripts
 
